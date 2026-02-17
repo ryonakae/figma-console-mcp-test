@@ -1,0 +1,3 @@
+[submodule "reference/figma-console-mcp"]
+	path = reference/figma-console-mcp
+	url = https://github.com/southleft/figma-console-mcp

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__figma-console"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "figma-console"
+  ]
+}
